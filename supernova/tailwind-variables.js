@@ -1,5 +1,12 @@
 module.exports = {
     'colors': {
+        'colors-brand-img-theme': {
+            'blue': '#2e96fb', 
+            'red': '#f9524a', 
+            'amber': '#fecd59', 
+            'amber-100': '#ffe6ac', 
+            'amber-700': '#ef8152', 
+        },
         'colors-primary': {
             'base': '#3f6faa', 
             '100': '#ebf0f6', 
@@ -10,6 +17,13 @@ module.exports = {
             '700': '#325888', 
             '800': '#2d4d76', 
             '900': '#264266', 
+        },
+        'colors-warning': {
+            'warning': '#f4c790', 
+            '50': '#fffdfc', 
+            '100': '#fffbeb', 
+            '200': '#eda145', 
+            '300': '#cc7914', 
         },
         'colors-neutrals': {
             'white': '#ffffff', 
@@ -33,26 +47,12 @@ module.exports = {
             '200': '#15b097', 
             '300': '#0b7b69', 
         },
-        'colors-warning': {
-            'warning': '#f4c790', 
-            '50': '#fffdfc', 
-            '100': '#fffbeb', 
-            '200': '#eda145', 
-            '300': '#cc7914', 
-        },
         'colors-error': {
             'error': '#e4626f', 
             '50': '#fffcfc', 
             '100': '#fef2f2', 
             '200': '#c03744', 
             'error300': '#8c1823', 
-        },
-        'colors-brand-img-theme': {
-            'blue': '#2e96fb', 
-            'red': '#f9524a', 
-            'amber': '#fecd59', 
-            'amber-100': '#ffe6ac', 
-            'amber-700': '#ef8152', 
         },
     },
     'boxShadow': {
