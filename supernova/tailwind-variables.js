@@ -1,0 +1,60 @@
+module.exports = {
+    'colors': {
+        'colors-primary': {
+            'base': '#3f6faa', 
+            '100': '#ebf0f6', 
+            '200': '#c5d3e5', 
+            '300': '#8ba8cc', 
+            '400': '#658bbb', 
+            '600': '#386399', 
+            '700': '#325888', 
+            '800': '#2d4d76', 
+            '900': '#264266', 
+        },
+        'colors-neutrals': {
+            'white': '#ffffff', 
+            '50': '#f8f9fb', 
+            'base': '#f1f3f6', 
+            '100': '#e2e6ed', 
+            '200': '#c3cbda', 
+            '300': '#a3b0c6', 
+            '450': '#50566a', 
+            '500': '#828f9b', 
+            '700': '#485874', 
+            '800': '#3e4c64', 
+            '900': '#212835', 
+            '1000': '#12161d', 
+            'base-black-_': '#030405', 
+        },
+        'colors-success': {
+            'base': '#a4f4e7', 
+            '50': '#fcfffd', 
+            '100': '#ecfdf5', 
+            '200': '#15b097', 
+            '300': '#0b7b69', 
+        },
+        'colors-warning': {
+            'warning': '#f4c790', 
+            '50': '#fffdfc', 
+            '100': '#fffbeb', 
+            '200': '#eda145', 
+            '300': '#cc7914', 
+        },
+        'colors-error': {
+            'error': '#e4626f', 
+            '50': '#fffcfc', 
+            '100': '#fef2f2', 
+            '200': '#c03744', 
+            'error300': '#8c1823', 
+        },
+        'colors-brand-img-theme': {
+            'blue': '#2e96fb', 
+            'red': '#f9524a', 
+            'amber': '#fecd59', 
+            'amber-100': '#ffe6ac', 
+            'amber-700': '#ef8152', 
+        },
+    },
+    'boxShadow': {
+    }
+}

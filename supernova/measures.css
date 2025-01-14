@@ -1,0 +1,41 @@
+
+:root {
+    --measure-dimension-typography-weight-medium: 500px;     
+    --measure-dimension-typography-weight-semibold: 600px;     
+    --measure-dimension-typography-weight-bold: 700px;     
+    --measure-dimension-units-spacing-space-2: 2px;     
+    --measure-dimension-units-spacing-space-4: 4px;     
+    --measure-dimension-units-spacing-space-6: 6px;     
+    --measure-dimension-units-spacing-space-8: 8px;     
+    --measure-dimension-units-spacing-space-10: 10px;     
+    --measure-dimension-units-spacing-space-12: 12px;     
+    --measure-dimension-units-spacing-space-16: 16px;     
+    --measure-dimension-units-spacing-space-20: 20px;     
+    --measure-dimension-units-spacing-space-24: 24px;     
+    --measure-dimension-units-spacing-space-28: 28px;     
+    --measure-dimension-units-spacing-space-32: 32px;     
+    --measure-dimension-units-spacing-space-40: 40px;     
+    --measure-dimension-units-spacing-space-54: 54px;     
+    --measure-dimension-units-spacing-space-60: 60px;     
+    --measure-dimension-units-spacing-space-80: 80px;     
+    --measure-dimension-units-spacing-space-120: 120px;     
+    --measure-dimension-units-spacing-space-160: 160px;     
+    --measure-border-radius-units-border-radius-sharp: 0px;     
+    --measure-border-radius-units-border-radius-xs: 2px;     
+    --measure-border-radius-units-border-radius-s: 4px;     
+    --measure-border-radius-units-border-radius-sm: 8px;     
+    --measure-border-radius-units-border-radius-m: 12px;     
+    --measure-border-radius-units-border-radius-ml: 16px;     
+    --measure-border-radius-units-border-radius-lg: 24px;     
+    --measure-border-radius-units-border-radius-xl: 36px;     
+    --measure-border-radius-units-border-radius-round: 999px;     
+    --measure-border-radius-units-border-radius-sharp: 0px;     
+    --measure-border-radius-units-border-radius-xs: 2px;     
+    --measure-border-radius-units-border-radius-s: 4px;     
+    --measure-border-radius-units-border-radius-sm: 8px;     
+    --measure-border-radius-units-border-radius-m: 12px;     
+    --measure-border-radius-units-border-radius-ml: 16px;     
+    --measure-border-radius-units-border-radius-lg: 24px;     
+    --measure-border-radius-units-border-radius-xl: 36px;     
+    --measure-border-radius-units-border-radius-round: 999px;     
+}
