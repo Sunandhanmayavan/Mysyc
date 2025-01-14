@@ -1,0 +1,318 @@
+{
+  "Typography": {
+    "Typeface": {
+      "$type": "string",
+      "$value": "Manrope"
+    },
+    "lh-auto": {
+      "$type": "string",
+      "$value": "auto"
+    },
+    "weight": {
+      "bold": {
+        "$type": "number",
+        "$value": 700
+      },
+      "medium": {
+        "$type": "number",
+        "$value": 500
+      },
+      "semibold": {
+        "$type": "number",
+        "$value": 600
+      }
+    }
+  },
+  "colors": {
+    "Error": {
+      "100": {
+        "$type": "color",
+        "$value": "#fef2f2"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#c03744"
+      },
+      "50": {
+        "$type": "color",
+        "$value": "#fffcfc"
+      },
+      "Error": {
+        "$type": "color",
+        "$value": "#e4626f"
+      },
+      "Error300": {
+        "$type": "color",
+        "$value": "#8c1823"
+      }
+    },
+    "Neutrals": {
+      "100": {
+        "$type": "color",
+        "$value": "#e2e6ed"
+      },
+      "1000": {
+        "$type": "color",
+        "$value": "#12161d"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#c3cbda"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#a3b0c6"
+      },
+      "450": {
+        "$type": "color",
+        "$value": "#50566a"
+      },
+      "50": {
+        "$type": "color",
+        "$value": "#f8f9fb"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#828f9b"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#485874"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#3e4c64"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#212835"
+      },
+      "Base": {
+        "$type": "color",
+        "$value": "#f1f3f6"
+      },
+      "Base Black ??": {
+        "$type": "color",
+        "$value": "#030405"
+      },
+      "white": {
+        "$type": "color",
+        "$value": "#ffffff"
+      }
+    },
+    "Primary": {
+      "100": {
+        "$type": "color",
+        "$value": "#ebf0f6"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#c5d3e5"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#8ba8cc"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#658bbb"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#386399"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#325888"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#2d4d76"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#264266"
+      },
+      "base": {
+        "$type": "color",
+        "$value": "#3f6faa"
+      }
+    },
+    "Success": {
+      "100": {
+        "$type": "color",
+        "$value": "#ecfdf5"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#15b097"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#0b7b69"
+      },
+      "50": {
+        "$type": "color",
+        "$value": "#fcfffd"
+      },
+      "base": {
+        "$type": "color",
+        "$value": "#a4f4e7"
+      }
+    },
+    "Warning": {
+      "100": {
+        "$type": "color",
+        "$value": "#fffbeb"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#eda145"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#cc7914"
+      },
+      "50": {
+        "$type": "color",
+        "$value": "#fffdfc"
+      },
+      "Warning": {
+        "$type": "color",
+        "$value": "#f4c790"
+      }
+    },
+    "brand img theme": {
+      "amber": {
+        "$type": "color",
+        "$value": "#fecd59"
+      },
+      "amber 100": {
+        "$type": "color",
+        "$value": "#ffe6ac"
+      },
+      "amber 700": {
+        "$type": "color",
+        "$value": "#ef8152"
+      },
+      "blue": {
+        "$type": "color",
+        "$value": "#2e96fb"
+      },
+      "red": {
+        "$type": "color",
+        "$value": "#f9524a"
+      }
+    }
+  },
+  "units": {
+    "Radius": {
+      "Round": {
+        "$type": "number",
+        "$value": 999
+      },
+      "Sharp": {
+        "$type": "number",
+        "$value": 0
+      },
+      "lg": {
+        "$type": "number",
+        "$value": 24
+      },
+      "m": {
+        "$type": "number",
+        "$value": 12
+      },
+      "ml": {
+        "$type": "number",
+        "$value": 16
+      },
+      "s": {
+        "$type": "number",
+        "$value": 4
+      },
+      "sm": {
+        "$type": "number",
+        "$value": 8
+      },
+      "xl": {
+        "$type": "number",
+        "$value": 36
+      },
+      "xs": {
+        "$type": "number",
+        "$value": 2
+      }
+    },
+    "Spacing": {
+      "space--160": {
+        "$type": "number",
+        "$value": 160
+      },
+      "space-10": {
+        "$type": "number",
+        "$value": 10
+      },
+      "space-12": {
+        "$type": "number",
+        "$value": 12
+      },
+      "space-120": {
+        "$type": "number",
+        "$value": 120
+      },
+      "space-16": {
+        "$type": "number",
+        "$value": 16
+      },
+      "space-2": {
+        "$type": "number",
+        "$value": 2
+      },
+      "space-20": {
+        "$type": "number",
+        "$value": 20
+      },
+      "space-24": {
+        "$type": "number",
+        "$value": 24
+      },
+      "space-28": {
+        "$type": "number",
+        "$value": 28
+      },
+      "space-32": {
+        "$type": "number",
+        "$value": 32
+      },
+      "space-4": {
+        "$type": "number",
+        "$value": 4
+      },
+      "space-40": {
+        "$type": "number",
+        "$value": 40
+      },
+      "space-54": {
+        "$type": "number",
+        "$value": 54
+      },
+      "space-6": {
+        "$type": "number",
+        "$value": 6
+      },
+      "space-60": {
+        "$type": "number",
+        "$value": 60
+      },
+      "space-8": {
+        "$type": "number",
+        "$value": 8
+      },
+      "space-80": {
+        "$type": "number",
+        "$value": 80
+      }
+    }
+  }
+}
