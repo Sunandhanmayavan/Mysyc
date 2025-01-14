@@ -12,7 +12,7 @@ module.exports = {
             '900': '#264266', 
         },
         'colors-neutrals': {
-            'white': '#00ff84', 
+            'white': '#ffffff', 
             '50': '#f8f9fb', 
             'base': '#f1f3f6', 
             '100': '#e2e6ed', 
