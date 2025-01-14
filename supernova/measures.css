@@ -29,4 +29,13 @@
     --measure-border-radius-units-border-radius-lg: 24px;     
     --measure-border-radius-units-border-radius-xl: 36px;     
     --measure-border-radius-units-border-radius-round: 999px;     
+    --measure-dimension-units-border-radius-sharp: 0px;     
+    --measure-dimension-units-border-radius-xs: 2px;     
+    --measure-dimension-units-border-radius-s: 4px;     
+    --measure-dimension-units-border-radius-sm: 8px;     
+    --measure-dimension-units-border-radius-m: 12px;     
+    --measure-dimension-units-border-radius-ml: 16px;     
+    --measure-dimension-units-border-radius-lg: 24px;     
+    --measure-dimension-units-border-radius-xl: 36px;     
+    --measure-dimension-units-border-radius-round: 999px;     
 }

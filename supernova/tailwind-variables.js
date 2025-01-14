@@ -26,7 +26,7 @@ module.exports = {
             '300': '#cc7914', 
         },
         'colors-neutrals': {
-            'white': '#ffffff', 
+            'white': '#ff0000', 
             '50': '#f8f9fb', 
             'base': '#f1f3f6', 
             '100': '#e2e6ed', 
